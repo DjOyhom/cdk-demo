@@ -42,5 +42,3 @@ Con el siguiente comando, el indicamos a CDK que debe desplegar nuestro proyecto
 - https://docs.aws.amazon.com/cdk/v2/guide/serverless_example.html
 - https://www.youtube.com/watch?v=zOwYSX6ExSY
 
-# Nota importante!
-### Esto no es mio, es de todos! Si alguien siente que puede brindarle valor, mejorando cualquier parte de este repositorio, esta guia, el codigo de ejemplo, lo que sea, sientase libre de hacerlo! La idea de esto es que todo puedamos utilizar esto para aprender, y si por alguna razon esto tiene algun defecto y alguien es capaz de correjirlo, do it! Si no lo mantenemos, de nada sirve tener codigo inutil! Gracias y cualquier cosa, el equipo de DevOps esta a las ordenes!!
