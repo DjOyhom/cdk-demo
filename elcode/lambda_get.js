@@ -22,7 +22,11 @@ exports.main = async function(event, context) {
               <title>Document</title>
               </head>
               <body style="background-color: red;">
-              <h1 style="text-align: center;">Eeeeh loco... falta gente aca visssstessss, tené que pasarme el name! \nAsi no te puedo mandar para el dynamo papaaa!\n🤣🤣</h1>
+              <h1 style="text-align: center;">Bienvenidos a las DevFest!!</h1>  
+              <br>
+              <h1 style="text-align: center;">
+              Probate mandandome un ?name=Rodri
+              </h1>  
           </body>
           </html>
           `;
@@ -54,22 +58,8 @@ exports.main = async function(event, context) {
               <title>Document</title>
           </head>
           <body>
-            <h5 style="text-align: center;">HOLAAA HERMOSOS DEVELOPEEERSS 😍🥰!!</h5>
-            La base de datos, ha sido actualizada!
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <h1>` +  event.queryStringParameters.name + `</h1> 
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
+            <h5 style="text-align: center;">HOLA HERMOSOS DEVELOPEEERSS 😍🥰!!</h5>
+            <h1>Un saludito en especial para ` +  event.queryStringParameters.name + `!</h1> 
             <br>
             <br>
             <br>
